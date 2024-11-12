@@ -1,4 +1,4 @@
-module github.com/moolekkari/test/v2
+module github.com/moolekkari/test/providers/v2
 
 go 1.21.5
 
