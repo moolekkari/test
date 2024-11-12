@@ -1,4 +1,4 @@
-module github.com/moolekkari/test/v1
+module github.com/moolekkari/test/providers/cliflag/v1
 
 go 1.21.5
 
